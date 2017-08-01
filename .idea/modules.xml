@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StaticTool2.iml" filepath="$PROJECT_DIR$/StaticTool2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CISE.iml" filepath="$PROJECT_DIR$/.idea/modules/CISE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CISE_examples.iml" filepath="$PROJECT_DIR$/.idea/modules/CISE_examples.iml" group="CISE" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CISE_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CISE_main.iml" group="CISE" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CISE_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CISE_test.iml" group="CISE" />
     </modules>
   </component>
 </project>
